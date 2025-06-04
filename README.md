@@ -1,4 +1,4 @@
-# Numerical simulation for `Double-bracket quantum algorithms for quantum imaginary-time evolution`
+# Tutorial using an annotated jupyter notebook for `Double-bracket quantum algorithms for quantum imaginary-time evolution`
 
 ### View paper at
 
